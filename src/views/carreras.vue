@@ -8,7 +8,6 @@
         <table class="table">
             <thead>
                 <tr>
-                    <th scope="col">#</th>
                     <th scope="col">Id</th>
                     <th scope="col">Nombre</th>
                     <th scope="col">Descripción</th>                        
